@@ -12,6 +12,7 @@ A two-sided marketplace app built with Flutter and Firebase that connects custom
   <img src="choose_account_type.jpg" width="200"/>
   <img src="customer_register_screen.jpg" width="200"/>
   <img src="artisan_register_screen.jpg" width="200"/>
+  <img src="pending_activation_screen.jpg" width="200"/>
   <img src="login_screen.jpg" width="200"/>
   <img src="customer_home_screen.jpg" width="200"/>
   <img src="artisan_list_screen.jpg" width="200"/>
