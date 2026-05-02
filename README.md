@@ -1,7 +1,9 @@
 # Artisan Finder 🔧
 A two-sided marketplace app built with Flutter and Firebase that connects customers with skilled artisans (plumbers, electricians, painters, carpenters, and AC technicians) in Lagos, Nigeria.
 
-🚀 Coming Soon to Google Play 
+---
+
+## 🚀 Coming Soon to Google Play
 The app is currently in final preparation and will be available on the Google Play Store soon. Stay tuned!
 
 ---
@@ -30,7 +32,6 @@ The app is currently in final preparation and will be available on the Google Pl
 ---
 
 ## Features
-
 ### Customer Side
 - 🔐 **Authentication** — Register, login, email verification and forgot password via Firebase Auth
 - 🏠 **Home Screen** — Browse artisan categories and recently joined artisans
@@ -42,14 +43,12 @@ The app is currently in final preparation and will be available on the Google Pl
 - ✏️ **Edit Profile** — Update name, phone number and profile photo
 - 🔒 **Change Password** — Securely update account password
 - 🗑️ **Delete Account** — Permanently delete account and all associated data
-
 ### Artisan Side
 - 📝 **Registration** — Register with full profile including category, experience, location and bio
 - ⏳ **Pending Activation** — Profile reviewed and activated by admin within 24 hours
 - 📊 **Dashboard** — View real time profile view count
 - ✏️ **Edit Profile** — Update bio, location, phone and profile photo
 - 🗑️ **Delete Account** — Permanently delete account and all associated data
-
 ### General
 - 🖼️ **Profile Photos** — Upload and update profile photos via Cloudinary
 - 💾 **Persistent Login** — Stay logged in across app restarts
